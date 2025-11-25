@@ -1,0 +1,11 @@
+*/outputs_fluid_terzaghi/*
+*/geometry/*
+*/outputs_croix/*
+*.xdmf
+*.h5
+*.msh
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.gif
